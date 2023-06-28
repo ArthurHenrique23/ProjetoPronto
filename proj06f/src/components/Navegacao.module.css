@@ -1,0 +1,15 @@
+.modelo {
+    overflow: hidden;
+}
+
+.titulo {
+    font-size: 32pt;
+    padding: 32px 0;
+    text-align: center;
+}
+
+.botoes {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+}

@@ -1,0 +1,19 @@
+.modelo {
+    background-color: #fff;
+    display: flex;
+    margin: 32px 0;
+    overflow: hidden;
+}
+
+.imagens {
+    display: flex;
+    overflow-x: scroll;
+    min-width: 480px;
+}
+
+.dados {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+}

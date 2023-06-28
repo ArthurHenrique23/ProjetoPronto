@@ -1,0 +1,20 @@
+{
+  "name": "proj06b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "SuperGeeks",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.2"
+  }
+}
